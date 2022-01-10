@@ -16,10 +16,9 @@ So here we are!
 2. ReactJS
 3. Firebase
 4. TypeScript (TS)
-5. React Router DOM
 6. Redux Toolkit (RTK)
 7. Redux Toolkit Query (RTKQ)
-8. Material UI
+8. Material UI (v5)
 
 ## License
 
